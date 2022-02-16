@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-053-optimization-methods-in-management-science-spring-2013/aa6d6d7d93a12d557a6c3fd84d480791_MIT15_053S13_rec06sol.pdf
+file: /media/courses/15-053-optimization-methods-in-management-science-spring-2013/aa6d6d7d93a12d557a6c3fd84d480791_MIT15_053S13_rec06sol.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Recitation Problems
+parent_type: CourseSection
 resourcetype: Document
 title: Recitation 6 solutions
 uid: aa6d6d7d-93a1-2d55-7a6c-3fd84d480791

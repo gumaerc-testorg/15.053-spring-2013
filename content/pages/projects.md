@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: 5e18d3e2-7aca-323e-16df-a5243adf26c7
 ---
@@ -142,7 +145,7 @@ In addition, there are five doctoral students in the [OR Center](http://web.mit.
 Limits to Excel Solver and Alternatives
 ---------------------------------------
 
-Solver is limited to 200 decision variables for all models, and it is limited to 100 constraints for nonlinear models. While many successful projects will be possible with these limits, other projects will need software capable of solving much larger optimization problems. There are also tools that permit upfront programming or scripting to formulate the model. The TAs and consultants will provide limited support to groups wishing to learn and use other tools (such as [CPLEX](http://en.wikipedia.org/wiki/CPLEX), [AMPL®](http://www.ampl.com/), [OpenSolver](http://opensolver.org/), YALMIP in MATLAB™, open source solvers in common programming languages, etc).
+Solver is limited to 200 decision variables for all models, and it is limited to 100 constraints for nonlinear models. While many successful projects will be possible with these limits, other projects will need software capable of solving much larger optimization problems. There are also tools that permit upfront programming or scripting to formulate the model. The TAs and consultants will provide limited support to groups wishing to learn and use other tools (such as [CPLEX](http://en.wikipedia.org/wiki/CPLEX), [AMPL{{< sup "®" >}}](http://www.ampl.com/), [OpenSolver](http://opensolver.org/), YALMIP in MATLAB™, open source solvers in common programming languages, etc).
 
 Sample Topics
 -------------

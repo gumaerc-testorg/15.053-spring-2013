@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 00142df8-0b36-c1ed-6c4b-420456311d3d
 ---
@@ -36,7 +38,7 @@ There is no required textbook for the subject. Students can refer to the followi
 
 *   Bradley, S. P., A. C. Hax, and T. L. Magnanti. _[Applied Mathematical Programming](http://web.mit.edu/15.053/www/)_. Addison-Wesley, 1977. ISBN: 9780201004649.
 
-Microsoft® Excel will be used frequently within 15.053. Students will be using the "Solver" Add-in that is available when Microsoft® Office or Excel is installed.
+Microsoft{{< sup "®" >}} Excel will be used frequently within 15.053. Students will be using the "Solver" Add-in that is available when Microsoft{{< sup "®" >}} Office or Excel is installed.
 
 The class will use [Piazza](https://piazza.com/) for online discussions and announcements.
 

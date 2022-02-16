@@ -1,11 +1,14 @@
 ---
 content_type: page
+learning_resource_types:
+- Tutorials
+ocw_type: CourseSection
 title: Tutorials
 uid: ca4006b9-794a-eac0-c71f-2d64cdfcbe29
 ---
 
-Prerequisite Skills in Microsoft® Excel
----------------------------------------
+Prerequisite Skills in Microsoft{{< sup "®" >}} Excel
+-----------------------------------------------------
 
 We will be using Microsoft Excel throughout the semester.
 
@@ -32,7 +35,7 @@ These tutorials were provided to students for background and supplemental study.
 
 [Tutorial 2: Algebraic formulations (PDF - 1.9MB)]({{< baseurl >}}/resources/mit15_053s13_tut02)
 
-[Tutorial 3: Microsoft® Excel Solver techniques (PDF - 2.2MB)]({{< baseurl >}}/resources/mit15_053s13_tut03)
+[Tutorial 3: Microsoft{{< sup "®" >}} Excel Solver techniques (PDF - 2.2MB)]({{< baseurl >}}/resources/mit15_053s13_tut03)
 
 [Tutorial 4: LP transformation techniques (PDF - 1.1MB)]({{< baseurl >}}/resources/mit15_053s13_tut04)
 

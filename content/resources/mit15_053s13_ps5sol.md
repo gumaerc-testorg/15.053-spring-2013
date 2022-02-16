@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This file contains information regarding problem set 5 solutions.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-053-optimization-methods-in-management-science-spring-2013/77f1525c9ea6ccaf4038972b6ef69699_MIT15_053S13_ps5sol.pdf
+file: /media/courses/15-053-optimization-methods-in-management-science-spring-2013/77f1525c9ea6ccaf4038972b6ef69699_MIT15_053S13_ps5sol.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: Problem Set 5 solutions
 uid: 77f1525c-9ea6-ccaf-4038-972b6ef69699
