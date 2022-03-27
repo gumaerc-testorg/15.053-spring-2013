@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 7eea5913-f25d-623d-1680-a2d7c1d1e4f0
 resourcetype: Document
 title: IP reference guide
 uid: 86d472ff-a3f1-c341-c586-cb26ba1093c1

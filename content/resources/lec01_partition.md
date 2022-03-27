@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 7eea5913-f25d-623d-1680-a2d7c1d1e4f0
 resourcetype: Other
 title: lec01_partition.xlsm
 uid: 16e22256-2db2-8020-df87-76e99bdb2195

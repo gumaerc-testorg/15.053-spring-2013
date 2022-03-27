@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 7eea5913-f25d-623d-1680-a2d7c1d1e4f0
 resourcetype: Other
 title: lec18_decision.xlsx
 uid: b3c9ce6c-cee2-1ea5-7927-e8c525514026

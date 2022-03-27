@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 6ff52b58-2e04-f6b4-a130-411870cf5d80
 resourcetype: Other
 title: ps1-1_sol.xls
 uid: 7e0ec0e5-0ea7-5e4e-04c0-77fffc11864a

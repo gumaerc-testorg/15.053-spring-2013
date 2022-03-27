@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 67ad91fd-f222-ed95-0eb6-a4b11a63aaba
 resourcetype: Document
 title: Practice problems solutions
 uid: f6806e32-e943-eef6-aace-970c33019d7f

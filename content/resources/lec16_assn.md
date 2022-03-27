@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 7eea5913-f25d-623d-1680-a2d7c1d1e4f0
 resourcetype: Other
 title: lec16_assn.xls
 uid: 20f7af60-6c7c-479e-6747-9ef6eb7a137e
