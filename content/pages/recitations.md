@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Recitation Problems
 uid: 6f6ab8fe-23e9-d56e-ebd4-0e3310c733c3
 ---
