@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides information on course structure, meeting
+  times, prerequisites, textbook and software, grading, problem sets, quizzes, exams,
+  team project, class participation, use of laptops and smart phones, recitations
+  and review sessions, and the schedule of lecture topics, recitations, and assignment
+  due dates.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
