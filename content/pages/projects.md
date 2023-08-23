@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides details on the team project to identify and model
+  a real world optimization problem, including background, objectives, team structure,
+  deliberates, grading, staff and consulting support, limits to Excel Solver and alternatives,
+  and sample topics.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
