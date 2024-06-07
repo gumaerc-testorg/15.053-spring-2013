@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding recitation 10 solutions.
 file: /courses/15-053-optimization-methods-in-management-science-spring-2013/4677bfe54991d59b488511ba62032dcb_MIT15_053S13_rec10sol.pdf
+file_size: 348722
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

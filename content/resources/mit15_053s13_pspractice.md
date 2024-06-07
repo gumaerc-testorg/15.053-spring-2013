@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding practice problems.
 file: /courses/15-053-optimization-methods-in-management-science-spring-2013/4626afefe4359b151ee8dc6f3a107512_MIT15_053S13_pspractice.pdf
+file_size: 278575
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

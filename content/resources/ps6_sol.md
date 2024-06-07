@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a special file regarding problem set 6 solution spreadsheet.
 file: /courses/15-053-optimization-methods-in-management-science-spring-2013/bee24ebdf43d9752ef3558bf53e43593_ps6_sol.xlsx
+file_size: 383740
 file_type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
 learning_resource_types:
 - Assignments
