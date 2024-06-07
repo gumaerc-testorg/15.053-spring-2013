@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a special file regarding mc2 problem.
 file: /courses/15-053-optimization-methods-in-management-science-spring-2013/f4a481f03e78acdc2a77f26cc4b04c48_lec06_mc2.xlsx
+file_size: 23537
 file_type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
 learning_resource_types:
 - Lecture Notes

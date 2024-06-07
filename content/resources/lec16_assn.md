@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a special file regarding the assignment problem.
 file: /courses/15-053-optimization-methods-in-management-science-spring-2013/20f7af606c7c479e67479ef6eb7a137e_lec16_assn.xls
+file_size: 73216
 file_type: application/vnd.ms-excel
 learning_resource_types:
 - Lecture Notes
