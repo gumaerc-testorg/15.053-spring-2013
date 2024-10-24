@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: "This is a special file regarding Juan Lee\u2019s decision."
-file: /courses/15-053-optimization-methods-in-management-science-spring-2013/b3c9ce6ccee21ea57927e8c525514026_lec18_decision.xlsx
+file: /ol-ocw-studio-app/courses/15-053-optimization-methods-in-management-science-spring-2013/b3c9ce6ccee21ea57927e8c525514026_lec18_decision.xlsx
 file_size: 15306
 file_type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
 learning_resource_types:
