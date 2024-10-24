@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding recitation 7 solutions.
-file: /courses/15-053-optimization-methods-in-management-science-spring-2013/a2c2a98c607f33a91bc52bfd3514ce8f_MIT15_053S13_rec07sol.pdf
+file: /ol-ocw-studio-app/courses/15-053-optimization-methods-in-management-science-spring-2013/a2c2a98c607f33a91bc52bfd3514ce8f_MIT15_053S13_rec07sol.pdf
 file_size: 381985
 file_type: application/pdf
 learning_resource_types: []

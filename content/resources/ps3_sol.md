@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a special file regarding problem set 3 solutions spreadsheet.
-file: /courses/15-053-optimization-methods-in-management-science-spring-2013/83bac5097deb928b7836f926f434b0b4_ps3_sol.xls
+file: /ol-ocw-studio-app/courses/15-053-optimization-methods-in-management-science-spring-2013/83bac5097deb928b7836f926f434b0b4_ps3_sol.xls
 file_size: 771072
 file_type: application/vnd.ms-excel
 learning_resource_types:
