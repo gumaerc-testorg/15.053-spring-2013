@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/15-053-optimization-methods-in-management-science-spring-2013/aa6d6d7d93a12d557a6c3fd84d480791_MIT15_053S13_rec06sol.pdf
+file: /courses/15-053-optimization-methods-in-management-science-spring-2013/aa6d6d7d93a12d557a6c3fd84d480791_MIT15_053S13_rec06sol.pdf
 file_size: 205889
 file_type: application/pdf
 learning_resource_types: []
