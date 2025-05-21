@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding IP reference guide.
-file: /ol-ocw-studio-app/courses/15-053-optimization-methods-in-management-science-spring-2013/86d472ffa3f1c341c586cb26ba1093c1_MIT15_053S13_iprefguide.pdf
+file: /courses/15-053-optimization-methods-in-management-science-spring-2013/86d472ffa3f1c341c586cb26ba1093c1_MIT15_053S13_iprefguide.pdf
 file_size: 353916
 file_type: application/pdf
 learning_resource_types:

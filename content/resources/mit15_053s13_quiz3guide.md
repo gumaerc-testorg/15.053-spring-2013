@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding Quiz 3 study guide.
-file: /ol-ocw-studio-app/courses/15-053-optimization-methods-in-management-science-spring-2013/38859959871f95e69b0351c08220504a_MIT15_053S13_quiz3guide.pdf
+file: /courses/15-053-optimization-methods-in-management-science-spring-2013/38859959871f95e69b0351c08220504a_MIT15_053S13_quiz3guide.pdf
 file_size: 78452
 file_type: application/pdf
 learning_resource_types: []

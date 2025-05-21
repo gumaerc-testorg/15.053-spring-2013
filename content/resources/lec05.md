@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a special file regarding simplex method spreadsheets.
-file: /ol-ocw-studio-app/courses/15-053-optimization-methods-in-management-science-spring-2013/31195f88d38eb56a9e492eeeff103297_lec05.xls
+file: /courses/15-053-optimization-methods-in-management-science-spring-2013/31195f88d38eb56a9e492eeeff103297_lec05.xls
 file_size: 803840
 file_type: application/vnd.ms-excel
 learning_resource_types:

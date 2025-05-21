@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a special file regarding initial and final tableaus.
-file: /ol-ocw-studio-app/courses/15-053-optimization-methods-in-management-science-spring-2013/cdc1e28b392296d20451a457f0799a68_lec06_tableaus.xlsx
+file: /courses/15-053-optimization-methods-in-management-science-spring-2013/cdc1e28b392296d20451a457f0799a68_lec06_tableaus.xlsx
 file_size: 74691
 file_type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
 learning_resource_types:
