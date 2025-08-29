@@ -2,7 +2,7 @@
 content_type: resource
 description: "This is a special file regarding problem set 1 solutions \u2013 group\
   \ 2 spreadsheet."
-file: /courses/15-053-optimization-methods-in-management-science-spring-2013/3862f7ef6cc1494ec6c0871af461f405_ps1-2_sol.xls
+file: /ol-ocw-studio-app/courses/15-053-optimization-methods-in-management-science-spring-2013/3862f7ef6cc1494ec6c0871af461f405_ps1-2_sol.xls
 file_size: 436736
 file_type: application/vnd.ms-excel
 learning_resource_types:
